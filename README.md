@@ -1,5 +1,5 @@
 # Python Data Analytics Course Projects
-[this link](https://1drv.ms/f/s!AvxBv-hiiHXtgmZsgVFdkKtUUchK?e=Auoj0E)
+You can access all the raw data and Jupyter notebooks for these projects from [this link](https://1drv.ms/f/s!AvxBv-hiiHXtgmZsgVFdkKtUUchK?e=Auoj0E)
 
 This repository contains projects completed for the course "Data Analytics Real World Projects using Python" by the instructor Shan Singh. The projects include:
 
