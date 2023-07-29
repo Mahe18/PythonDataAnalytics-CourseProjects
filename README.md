@@ -25,6 +25,6 @@ In this project, we dive into a supermarket's sales data to find interesting pat
 
 ## Raw Data and Jupyter Notebooks
 
-You can access all the raw data and Jupyter notebooks for these projects from [this link](https://1drv.ms/f/s!AvxBv-hiiHXtgmZsgVFdkKtUUchK?e=Auoj0E).
+You can access all the raw data and Jupyter notebooks for these projects from [this link](https://1drv.ms/f/s!AvxBv-hiiHXtgmZsgVFdkKtUUchK?e=Auoj0E)
 
 
